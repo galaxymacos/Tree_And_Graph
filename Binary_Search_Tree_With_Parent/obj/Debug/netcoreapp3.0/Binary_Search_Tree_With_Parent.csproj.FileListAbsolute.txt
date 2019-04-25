@@ -1,0 +1,12 @@
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\bin\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.exe
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\bin\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.deps.json
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\bin\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.runtimeconfig.json
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\bin\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.runtimeconfig.dev.json
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\bin\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.dll
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\bin\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.pdb
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\obj\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\obj\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\obj\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.AssemblyInfoInputs.cache
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\obj\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.AssemblyInfo.cs
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\obj\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.dll
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree_With_Parent\obj\Debug\netcoreapp3.0\Binary_Search_Tree_With_Parent.pdb

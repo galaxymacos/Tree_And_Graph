@@ -1,0 +1,12 @@
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\netcoreapp3.0\Binary_Search_Tree.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\netcoreapp3.0\Binary_Search_Tree.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\netcoreapp3.0\Binary_Search_Tree.AssemblyInfoInputs.cache
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\netcoreapp3.0\Binary_Search_Tree.AssemblyInfo.cs
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\netcoreapp3.0\Binary_Search_Tree.exe
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\netcoreapp3.0\Binary_Search_Tree.deps.json
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\netcoreapp3.0\Binary_Search_Tree.runtimeconfig.json
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\netcoreapp3.0\Binary_Search_Tree.runtimeconfig.dev.json
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\netcoreapp3.0\Binary_Search_Tree.dll
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\netcoreapp3.0\Binary_Search_Tree.pdb
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\netcoreapp3.0\Binary_Search_Tree.dll
+C:\Users\galax\RiderProjects\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\netcoreapp3.0\Binary_Search_Tree.pdb
